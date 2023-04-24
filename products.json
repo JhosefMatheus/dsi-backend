@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Produto 1",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 1"
+    },
+    {
+        "id": 2,
+        "name": "Produto 2",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 2"
+    },
+    {
+        "id": 3,
+        "name": "Produto 3",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 3"
+    },
+    {
+        "id": 4,
+        "name": "Produto 4",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 4"
+    },
+    {
+        "id": 5,
+        "name": "Produto 5",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 5"
+    },
+    {
+        "id": 6,
+        "name": "Produto 6",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 6"
+    },
+    {
+        "id": 7,
+        "name": "Produto 7",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 7"
+    },
+    {
+        "id": 8,
+        "name": "Produto 8",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 8"
+    },
+    {
+        "id": 9,
+        "name": "Produto 9",
+        "price": "10",
+        "amount": 10,
+        "description": "Descrição do produto 9"
+    }
+]
